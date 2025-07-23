@@ -1,5 +1,7 @@
 # 🏗️ Efficient Download and Extraction of Google Buildings V3 Data
 
+_Detailed blogpost explaining this GitHub repo and scripts can be read here:_ https://sola.kau.se/deprimap/2025/07/23/google-v3-download/
+
 This repository provides a clean two-step pipeline to **download and extract building footprint data from Google Open Buildings V3**, using **only the tiles and geometries that intersect your region of interest (ROI)**.
 
 ---
